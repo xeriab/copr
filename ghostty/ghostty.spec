@@ -23,6 +23,7 @@ BuildRequires: pkg-config
 BuildRequires: wayland-protocols-devel
 BuildRequires: zig
 BuildRequires: zlib-ng-devel
+BuildRequires: blueprint-compiler
 
 Requires: fontconfig
 Requires: freetype
