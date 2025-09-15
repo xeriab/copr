@@ -13,6 +13,7 @@ BuildRequires: fontconfig-devel
 BuildRequires: freetype-devel
 BuildRequires: glib2-devel
 BuildRequires: gtk4-devel
+BuildRequires: gtk4-layer-shell-devel
 BuildRequires: harfbuzz-devel
 BuildRequires: libadwaita-devel
 BuildRequires: libpng-devel
@@ -29,6 +30,7 @@ Requires: fontconfig
 Requires: freetype
 Requires: glib2
 Requires: gtk4
+Requires: gtk4-layer-shell
 Requires: harfbuzz
 Requires: libadwaita
 Requires: libpng
